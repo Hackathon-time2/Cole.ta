@@ -4,6 +4,9 @@ Idealização e prototipação de projeto voltado a inclusão digital e/ou econo
 ## Informações Do Evento E Quadro Kanban
 https://geode-twilight-9b3.notion.site/Hackathon-Campus-526746726aae4095b198ce6500dd40c2
 
+## Desgin
+https://www.figma.com/file/pAJah775NpFA74WuVkTqXr/hackathon-project?node-id=0%3A1
+
 ## Lean Inception
 - Avaliadores:
 
